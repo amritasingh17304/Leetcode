@@ -50,7 +50,6 @@ class Solution {
       }
       copy=copy.next.next;
     }
-
     /**
      * Now we are segregating the lists by making two different lists of the original by restoring it and making a different
      * list for the copy node.
